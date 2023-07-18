@@ -21,31 +21,37 @@ Apart from conducting research, I actively contribute to open-source initiatives
 
 --- 
 ## Publications
+### 2023
+
+- [Preprint] [Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models](https://arxiv.org/abs/2303.06230)
+
+
 ### 2022
-- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
-  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
-- ***ICML 2022***
-  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
-- ***ACL 2022***
-  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
+- ***Cogent Engineering - Volume 9, 2022 - Issue 1***
+  - [Paper] [Traffic flow prediction models–A review of deep learning techniques](https://arxiv.org/abs/2105.08655](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.2010510) 
 
 ### 2021
-- ***NeurIPS 2021***
-  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
-  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
-  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
-- ***NAACL 2021***
-  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
+- ***ICML 2021***
+  - [Paper] [Reimagining GNN Explanations with ideas from Tabular Data](https://arxiv.org/abs/2106.12665)) at [ICML 2021 XAI](https://icml2021-xai.github.io/)
+  
+- ***ICECCT 2021***
+  - [Paper] [Secure Sharing of Text Based Data Using Hybrid Encryption Algorithms in a Client-Server Model](https://ieeexplore.ieee.org/abstract/document/9616671) at [ICECCT '21 Track CS](https://www.climatechange.ai/events/neurips2022)
+
+### 2020
+- ***CVPR 2020***
+  - [Poster] [Improved variants of Score-CAM via Smoothing and Integrating](https://drive.google.com/file/d/10at_w7Wlkz0Ig4fU9BoNWe8m8FttlaDD/view) at [RCV](https://sites.google.com/view/rcv-cvpr2021/accepted-work?authuser=0)
+- [Preprint] [IS-CAM: Integrated Score-CAM for axiomatic-based explanations](https://arxiv.org/abs/2010.03023)
+  
 
 ---
 ## Recent Updates
-[ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
+[ 🌟: Important | 💡: Research Paper | 📆: Miscellaneous ]
 
-- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
+- 🌟 Attended ACL 2023 virtually.
 
-- 💡 Oct 20, 2022: Our paper - [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2022) at NeurIPS 2022! 
+- 💡 March 10, 2023: Our preprint - [Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models](https://arxiv.org/abs/2303.06230) is out.
 
-- 🌟 Aug 22, 2022: I begin my graduate studies at Georgia Tech. Hoping to reach new limits. 
+- 🌟 Sep 6, 2022: I begin my graduate studies at Concorida University under Dr. Leila Kosseim. I am also awarded the Concordia Merit Scholarhsip of $5000 CAD. 
 
 - 💡 Jun 23, 2022: Our paper - [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) is accepted in the [New In ML workshop](https://ablacan.github.io/NewInML2022_ICML/) at ICML 2022! [🌟 Update: Best Paper Award!]
 
