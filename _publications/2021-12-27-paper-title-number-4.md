@@ -13,6 +13,7 @@ Anirudh Ameya Kashyap, Shravan Raviraj, Ananya Devarakonda, **Shamanth R Nayak K
 In our paper, we review some of the latest works in deep learning for traffic flow prediction. Many deep learning architectures include Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Restricted Boltzmann Machines (RBM), and Stacked Auto Encoder (SAE).
 <br>
 
-[Download paper here](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.201051065)
+[Download paper here](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.2010510)
+
 
 
