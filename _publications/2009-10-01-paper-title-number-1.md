@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "IS-CAM: Integrated Score-CAM for axiomatic-based explanations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-10-6-paper-title-number-1
+excerpt: 'Convolutional Neural Networks have been known as black-box models as humans cannot interpret their inner functionalities. With an attempt to make CNNs more interpretable and trustworthy, we propose IS-CAM (Integrated Score-CAM), where we introduce the integration operation within the Score-CAM pipeline to achieve visually sharper attribution maps quantitatively. Our method is evaluated on 2000 randomly selected images from the ILSVRC 2012 Validation dataset, which proves the versatility of IS-CAM to account for different models and methods.'
+date: 2020-10-06
+venue: 'RCV, CVPR 2020 (Poster)'
+paperurl: 'https://arxiv.org/abs/2010.03023'
+posterurl: 'https://drive.google.com/file/d/10at_w7Wlkz0Ig4fU9BoNWe8m8FttlaDD/view'
+citation: 'Rakshit Naidu, Ankita Ghosh, Yash Maurya, Shamanth R Nayak K, Soumya Snigdha Kundu'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Rakshit Naidu, Ankita Ghosh, Yash Maurya, **Shamanth R Nayak K**, Soumya Snigdha Kundu <br><br>
+Convolutional Neural Networks have been known as black-box models as humans cannot interpret their inner functionalities. With an attempt to make CNNs more interpretable and trustworthy, we propose IS-CAM (Integrated Score-CAM), where we introduce the integration operation within the Score-CAM pipeline to achieve visually sharper attribution maps quantitatively. Our method is evaluated on 2000 randomly selected images from the ILSVRC 2012 Validation dataset, which proves the versatility of IS-CAM to account for different models and methods.<br>
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2010.03023)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
