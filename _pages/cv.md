@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer and Communication Engineering, Manipal Institute of Technology, 2022
-* M.S. in Computer Science (Thesis), Concordia University, 2024
+* B.Tech. in Computer and Communication Engineering, Manipal Institute of Technology, 2022<br>
+  CGPA: **9.75/10**
+* M.S. in Computer Science (Thesis), Concordia University, 2024<br>
+  GPA: **4.15/4.3**
 
 <!-- Work experience
 ======
