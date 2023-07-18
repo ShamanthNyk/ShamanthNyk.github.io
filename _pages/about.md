@@ -53,10 +53,3 @@ Apart from conducting research, I actively contribute to open-source initiatives
 - 💡 March 10, 2023: Our preprint - [Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models](https://arxiv.org/abs/2303.06230) is out.
 
 - 🌟 Sep 6, 2022: I begin my graduate studies at Concorida University under Dr. Leila Kosseim. I am also awarded the Concordia Merit Scholarhsip of $5000 CAD. 
-
-
-
-- 🎬	Aug 29, 2021: Released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4).
-
-
-- 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv.
