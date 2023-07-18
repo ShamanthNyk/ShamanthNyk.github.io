@@ -1,50 +1,87 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello, I'm a seond year Master's (thesis) student at **Concordia University, Montreal** specializing in Deep Learning and Natural Language Processing. My research is currently focused on evaluating Large Langugae Models (LLMs) in various Discourse tasks under the supervision of [Dr. Leila Kosseim](https://users.encs.concordia.ca/~kosseim/) at [CLaC](https://www.concordia.ca/ginacody/computer-science-software-eng/research/groups/computational-linguistics.html). I am also working on leveraging LLMs for generating text that captures relevant aspects of various chacarcters in a game under [Dr. Jonathan Lessard](https://www.concordia.ca/faculty/jonathan-lessard.html)
+<br>
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I completed my Bachelor's degree in Computer Science at MIT Manipal, India in 2022, where I was fortunate enough to conduct research at the Artificial Intelligence and Robotics Lab (AIRL) in IISc Bangalore, mentored by [Prof. Suresh Sundaram](https://iiscprofiles.irins.org/profile/99109) and [Dr. Chandan Gautam](https://chandan-iiti.github.io/). I have also conducted research under [Prof. Harish Kumar J. R.](https://manipal.edu/mit/department-faculty/faculty-list/harish-kumar-j-r.html) at MIT, Manipal. During my undergraduate studies, I was an AI Developer at [Project MANAS](https://www.projectmanas.in/), where I contributed to the development of their self-driving car. I was also a member of the [Research Society Manipal](http://www.researchsocietymit.com/), where I began my research journey.
+<br>
+ 
+My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. My ultimate goal is to create intelligent systems that can learn from and adapt to the complex, ever-changing environments we encounter in the real world.
+<br>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I am currently seeking ML research positions for the summer of 2023, and I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating. Let's make progress together!
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+--- 
+## Publications
+### 2022
+- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
+  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
+- ***ICML 2022***
+  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
+- ***ACL 2022***
+  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### 2021
+- ***NeurIPS 2021***
+  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
+  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
+  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
+- ***NAACL 2021***
+  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
+## Recent Updates
+[ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
 
-**Markdown generator**
+- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- 💡 Oct 20, 2022: Our paper - [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2022) at NeurIPS 2022! 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- 🌟 Aug 22, 2022: I begin my graduate studies at Georgia Tech. Hoping to reach new limits. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- 💡 Jun 23, 2022: Our paper - [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) is accepted in the [New In ML workshop](https://ablacan.github.io/NewInML2022_ICML/) at ICML 2022! [🌟 Update: Best Paper Award!]
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- 💡 Apr 5, 2022: Our paper - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is accepted in the [WASSA workshop](https://wassa-workshop.github.io/) at ACL 2022!
+
+- 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
+
+- 💡 Mar 22, 2022: Our pre-print - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is made public on arxiv.
+
+- 🎬 Feb 4, 2022: Released our 18th stream on YouTube, having [Ankita Ghosh](https://ankitaghosh9.github.io/) present to us her amazing paper titled [IS-CAM: Integrated Score-CAM for axiomatic-based explanations](https://www.youtube.com/watch?v=26X-HoPCD1Y).
+
+-  🎬	Jan 30, 2022: Released our 17th stream on YouTube - a amazing paper on [Open World Object Detection](https://www.youtube.com/watch?v=UKX93Yd1o-8).
+
+- 📆 Oct 25, 2021: Adding another [feed blog](https://sahilkhose.github.io/feed/) answering the question - What is the most beautiful idea about Deep Learning?
+
+- 💡	Oct 23, 2021: Our paper - [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2021.html) at NeurIPS 2021! 🌟All 3 papers accepted in various workshops at NeurIPS 2021!🌟
+
+- 💡	Oct 21, 2021: Our paper - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is accepted in the 1. ML for Creativity and Design, 2. Deep Generative Models and Downstream Applications, 3. CtrlGen: Controllable Generative Modeling in Language and Vision, and 4. New in ML workshop at NeurIPS 2021! 
+
+- 💡	Oct 18, 2021: Our paper - [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) is accepted in the [ICBINB workshop](https://i-cant-believe-its-not-better.github.io/neurips2021/) at NeurIPS 2021!
+
+- 📆	Oct 11, 2021: Added a [Feed section](https://sahilkhose.github.io/feed/) to share interesting insights and ideas that I come across. (Go read it!)
+
+-  🎬	Oct 2, 2021: Released our 16th stream on YouTube - a amazing paper on [Zero-Shot Object Detection (BLC)](https://www.youtube.com/watch?v=JP6SjoLDrkc).
+
+- 💡	Sep 18, 2021: Our pre-print - [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) is made public on arxiv.
+
+- 🎬	Sep 12, 2021: Released our 15th stream on YouTube - very recent Google Research paper [FLAN: Finetuned Language Models are Zero-Shot Learners](https://www.youtube.com/watch?v=QDeYaqdjH0w).
+
+- 🎬	Sep 05, 2021: Released our 14th stream on YouTube - a amazing paper on [Self-Distillation](https://www.youtube.com/watch?v=ugvHJbzhod8).
+
+- 📆	Sep 03, 2021: Fruitpunch AI Hyderabad chapter is made public on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6839531104295235584/). I am leading the team as the AI Expertise Head.
+
+- 📆	Aug 30, 2021: Published my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
+
+- 🎬	Aug 29, 2021: Released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4).
+
+
+- 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv.
