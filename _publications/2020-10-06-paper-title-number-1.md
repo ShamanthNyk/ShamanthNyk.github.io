@@ -11,6 +11,6 @@ paperurl: 'https://arxiv.org/abs/2010.03023'
 Rakshit Naidu, Ankita Ghosh, Yash Maurya, **Shamanth R Nayak K**, Soumya Snigdha Kundu <br><br>
 Convolutional Neural Networks have been known as black-box models as humans cannot interpret their inner functionalities. With an attempt to make CNNs more interpretable and trustworthy, we propose IS-CAM (Integrated Score-CAM), where we introduce the integration operation within the Score-CAM pipeline to achieve visually sharper attribution maps quantitatively. Our method is evaluated on 2000 randomly selected images from the ILSVRC 2012 Validation dataset, which proves the versatility of IS-CAM to account for different models and methods.<br>
 
-[Download paper here](https://arxiv.org/abs/2010.03023)
+[Download paper here](https://arxiv.org/abs/2010.03023)<br>
 [Download poster here](https://drive.google.com/file/d/10at_w7Wlkz0Ig4fU9BoNWe8m8FttlaDD/view)
 
