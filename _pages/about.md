@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: center;">
-Hello, I am a second-year Master's (thesis) student at Concordia University, Montreal, specializing in Deep Learning and Natural Language Processing. Currently, my research primarily focuses on evaluating Large Language Models (LLMs) in various discourse tasks, including segmentation, connective identification, and relation classification. This research is conducted under the supervision of [Dr. Leila Kosseim](https://users.encs.concordia.ca/~kosseim/) at [CLaC](https://www.concordia.ca/ginacody/computer-science-software-eng/research/groups/computational-linguistics.html). Additionally, I am also exploring the application of LLMs for generating text that effectively captures the distinctive aspects of different characters in a game, working under the guidance of [Dr. Jonathan Lessard](https://www.concordia.ca/faculty/jonathan-lessard.html).</p>
+
+Hello, I am a second-year Master's (thesis) student at Concordia University, Montreal, specializing in Deep Learning and Natural Language Processing. Currently, my research primarily focuses on evaluating Large Language Models (LLMs) in various discourse tasks, including segmentation, connective identification, and relation classification. This research is conducted under the supervision of [Dr. Leila Kosseim](https://users.encs.concordia.ca/~kosseim/) at [CLaC](https://www.concordia.ca/ginacody/computer-science-software-eng/research/groups/computational-linguistics.html). Additionally, I am also exploring the application of LLMs for generating text that effectively captures the distinctive aspects of different characters in a game, working under the guidance of [Dr. Jonathan Lessard](https://www.concordia.ca/faculty/jonathan-lessard.html).
 <br>
 
 I completed my Bachelor's degree in Computer and Communications at Manipal Institute of Technology, India in 2022. Throughout my undergraduate studies, I had the privilege of engaging in several AI research projects. Notably, I served as a GRM Project Intern at IBM, working under [Mr. Balaji Ganesan](https://research.ibm.com/people/balaji-ganesan), where I focused on exploring the explainability of Graph Neural Networks for Tabular Data and Entity Matching. In 2021, I had the opportunity to work under the supervision of Dr. [Yllias Chali](https://www.cs.uleth.ca/~chali/) at the University of Lethbridge, Canada, as part of the Mitacs Globalink Internship program. During this program, I conducted research in the areas of Text Summarization and Query Generation. Furthermore, I conducted research under the guidance of [Dr. Santosh KV](https://manipal.edu/mit/department-faculty/faculty-list/santhosh-kv.html) at MIT, Manipal. Additionally, I briefly worked as a Software Engineering Intern at Cisco Systems, India. Throughout my undergraduate years, I also served as the Expertise Head for AI and acted as a mentor at the [Research Society Manipal](http://www.researchsocietymit.com/).
@@ -29,7 +29,7 @@ Apart from conducting research, I actively contribute to open-source initiatives
 
 ### 2022
 - ***Cogent Engineering - Volume 9, 2022 - Issue 1***
-  - [Paper] [Traffic flow prediction models–A review of deep learning techniques](https://arxiv.org/abs/2105.08655](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.2010510) 
+  - [Paper] [Traffic flow prediction models–A review of deep learning techniques](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.2010510) 
 
 ### 2021
 - ***ICML 2021***
